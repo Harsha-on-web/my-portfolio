@@ -6,13 +6,13 @@ import { SiLeetcode } from "react-icons/si";
 const HeaderSocials = () => {
   return (
     <div className="header__socials">
-      <a href="https://leetcode.com/DivyasriN/">
+      {/* <a href="https://leetcode.com/DivyasriN/">
         <SiLeetcode />
-      </a>
-      <a href="https://www.linkedin.com/in/divyasri-naraharisetti/">
+      </a> */}
+      <a href="https://www.linkedin.com/in/sri-harsha-injam/">
         <BsLinkedin />
       </a>
-      <a href="https://github.com/divyasrinaraharisetti">
+      <a href="https://github.com/Harsha-on-web">
         <FaGithub />
       </a>
     </div>

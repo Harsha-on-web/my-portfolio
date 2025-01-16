@@ -36,10 +36,10 @@ header {
   background: var(--color-primary);
 }
 
-/* Divyasri */
-.divyasri {
+/* Harsha */
+.harsha {
   /* background: linear-gradient(var(--color-), transparent); */
-  width: 25rem;
+  width: 20rem;
   height: 25rem;
   position: absolute;
   left: 50%;
@@ -48,10 +48,9 @@ header {
   /* border-radius: 3rem; */
   padding: 5rem 1.5rem 1.5rem 1.5rem;
 }
-.divyasri-picture{
+.harsha-picture{
   border-radius: 2rem;
   position: relative;
-  
 }
 
 /* SCROLL DOWN */

@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 
-
+/* Reset styles */
 * {
   margin: 0;
   padding: 0;
@@ -13,12 +13,12 @@
 
 /* CSS Variables */
 :root {
-  --color-bg: #1c1c32;
-  --color-bg-variant: #2c2c6c;
-  --color-primary: #4db5ff;
-  --color-primary-variant: rgba(77, 181, 255, 0.4);
+  --color-bg: #2b2b2b; /* Charcoal background */
+  --color-bg-variant: #3e3e3e; /* Slightly lighter gray */
+  --color-primary: #a15c3b; /* Warm brownish copper */
+  --color-primary-variant: rgba(161, 92, 59, 0.4); /* Lighter copper for hover */
   --color-white: #fff;
-  --color-light: rgba(255, 255, 255, 0.6);
+  --color-light: rgba(255, 255, 255, 0.7); /* Light grayish-white */
 
   --transition: all 400ms ease;
 

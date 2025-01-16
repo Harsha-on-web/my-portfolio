@@ -14,16 +14,16 @@ import "swiper/css/autoplay";
 
 const data = [
   {
-    title: "Web Development and Design Intern",
-    company: "Sails Software Solutions",
-    date: "January 2022 - June 2022",
-    description: "I constructed a robust full-stack application by building a RESTful API using Django's MVT framework. I effectively managed over 10 endpoints, ensuring seamless communication between the frontend and backend. Additionally, I designed a responsive user interface in Angular to elevate the overall user experience. My contributions extended to website redesigns aimed at enhancing navigation and improving visual aesthetics."
+    title: "Member of Technical Staff",
+    company: "EdgeVerve",
+    date: "July 2022 - Present",
+    description: "Developed an intuitive user interface for a Generative AI application, enabling seamless transformation of user inputs into actionable outputs while enhancing the overall user experience. Created a dynamic Dataflow configuration interface that reduced setup time by 50%, and designed a real-time prompt submission and monitoring system, achieving zero duplication and improving workflow accuracy. Built a scalable dashboard capable of tracking and managing over 100K records daily, ensuring efficient execution updates. Integrated Keycloak for secure authentication with Role-Based Access Control (RBAC), supporting multiple client configurations. Optimized system performance to handle 6,800 orders per hour through effective orchestration during Non-Functional Requirements (NFR) testing. Additionally, strengthened the resilience of Apache OFBiz by resolving high-load vulnerabilities, improving thread safety, and addressing critical issues in the ControlFilter code, ensuring seamless and reliable system performance."
   },
   {
-    title: "Data Analysis Intern",
-    company: "QUEST Global Engineering Pvt. Ltd.",
-    date: "May 2021 - Aug 2021",
-    description: "I streamlined dataset analysis to expedite high-value aerospace orders, boosting our performance maturity by 15% and automating anomaly detection. I analyzed aerospace datasets, uncovering an average of 55 defects per model weekly. I processed data for daily testing and enhanced visualization methods for weekly defect reports to our team."
+    title: "Software Development Intern",
+    company: "HCLTech",
+    date: "July 2021 - Dec 2021",
+    description: "Developed Machine Learning pipelines in Azure Databricks for data validation, transformation, and customer insights, utilizing Python, SQL, and Azure Data Factory. Designed and implemented a Customer Churn prediction model to enhance business decision-making."
   }
 ];
 

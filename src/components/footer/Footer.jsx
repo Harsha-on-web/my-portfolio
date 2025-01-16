@@ -10,7 +10,7 @@ const Footer = () => {
       <footer>
       {/* eslint-disable-next-line */}
       <a href="#" className="footer__logo">
-        Divyasri Naraharisetti
+        Sri Harsha Injam
       </a>
       <ul className="permalinks">
         <li>
@@ -34,18 +34,18 @@ const Footer = () => {
         </li>
       </ul>
       <div className="footer__socials">
-        <a href="https://www.linkedin.com/in/divyasri-naraharisetti/">
+        <a href="https://www.linkedin.com/in/sri-harsha-injam/">
           <BsLinkedin />
         </a>
-        <a href="https://github.com/divyasrinaraharisetti">
+        <a href="https://github.com/Harsha-on-web">
           <FaGithub />
         </a>
-        <a href="https://leetcode.com/DivyasriN/">
+        {/* <a href="https://leetcode.com/DivyasriN/">
           <SiLeetcode/>
-        </a>
+        </a> */}
       </div>
       <div className="footer__copyright">
-        <small>&copy; Divyasri Naraharisetti. All rights reserved</small>
+        <small>&copy; Sri Harsha Injam. All rights reserved</small>
       </div>
     </footer>
     </section>

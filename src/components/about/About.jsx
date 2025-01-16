@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import profile_picture from "../../assets/profile3.png";
+import profile_picture from "../../assets/developer.png";
 // import { FaAward } from "react-icons/fa";
 // import { FiUsers } from "react-icons/fi";
 // import { VscFolderLibrary } from "react-icons/vsc";
@@ -13,19 +13,18 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={profile_picture} alt="About Divyasri" />
+            <img src={profile_picture} alt="About Harsha" />
           </div>
         </div>
         <div className="about__content text-gray-100 text-justify py-2 max-w-md">
           <p>
-            Hi, I'm Divyasri Naraharisetti, currently pursuing a Graduate Degree in Computer Science at the University of Florida. 
-            I am a tech enthusiast with a passion for Full Stack Application Development and a Novice Cloud Developer. 
+            Hi, I'm Sri Harsha Injam, currently working as Member of Technical Staff at EdgeVerve. 
+            I am a tech enthusiast with a passion for Full Stack Application Development and Problem Solving. 
             {/* With a strong foundation in these two distinct yet interconnected fields,  */}
             {/* I strive to bridge the gap between data-driven insights and functional applications. */}
           </p>
           <p>
-            In the world of full stack development, I bring to the table a comprehensive skill set that encompasses both frontend and backend technologies. I take pride in crafting user-friendly interfaces that prioritize seamless experiences, leveraging React, JavaScript, Angular, and Java. 
-            On the backend, I excel in designing efficient databases and developing server-side logic using languages like Django(Python), Node.js, Kubernetes, and Docker.
+            In the world of full stack development, I bring to the table a comprehensive skill set that encompasses both frontend and backend technologies. I take pride in crafting user-friendly interfaces that prioritize seamless experiences, leveraging React, JavaScript and Java. 
             This combination of skills allows me to create holistic and responsive web applications that deliver value to users.
             {/* My expertise spans various programming languages and technologies, including Python, Java, NodeJS, Angular, React,, and Django. */}
           </p>

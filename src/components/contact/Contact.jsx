@@ -35,16 +35,16 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>d.naraharisetti15@gmail.com</h5>
-            <a href="mailto:d.naraharisetti15@gmail.com">Send a message</a>
+            <h5>harsha.injam@gmail.com</h5>
+            <a href="mailto:harsha.injam@gmail.com">Send a message</a>
           </article>
           
           <article className="contact__option">
             <BsLinkedin className="contact__option-icon" />
             <h4>LinkedIn</h4>
-            <h5>Divyasri Naraharisetti</h5>
+            <h5>Sri Harsha Injam</h5>
             
-            <a href="https://www.linkedin.com/in/divyasri-naraharisetti/">
+            <a href="https://www.linkedin.com/in/sri-harsha-injam/">
               Let's Connect
             </a>
           </article>
